@@ -46,3 +46,11 @@ _Math should be:_
 |so|"_"|(_)|.|s|
 |no|root|^|+|n|
 
+
+
+1000 = kamamama
+
+1000 = ka ta kama ni pa
+
+1 * 10 ^ 3 
+
