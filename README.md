@@ -1,5 +1,17 @@
 # makalapa
 
+## Philosophy
+
+_Math should be:_
+
+**ma:** Easy to learn
+
+**ka:** Easy to understand
+
+**la:** Easy to use
+
+**pa:** Fun!
+
 
 |o|u|i|a||
 |-|-|-|-|-|
