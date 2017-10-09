@@ -47,11 +47,11 @@ _Math should be:_
 
 ## Addition, Subtraction, Multiplication, Division
 
-+ --> na
+\+ --> na
 
-- --> wa na ("the inverse or opposite of plus")
+\- --> wa na ("the inverse or opposite of plus")
 
-* --> sa
+\* --> sa
 
 / --> wasa ("the inverse of opposite of multiply")
 
