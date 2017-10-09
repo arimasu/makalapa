@@ -8,7 +8,7 @@ _Math should be:_
 
 **ka:** Easy to understand
 
-**la:** Easy to use
+**ta:** Easy to use
 
 **pa:** Fun!
 
