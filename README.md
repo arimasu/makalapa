@@ -60,13 +60,13 @@ _Math should be:_
 
 = --> lulu
 
-< --> lili
+\< --> lili
 
-> --> lolo
+\> --> lolo
 
-<= --> liliwilulu ("less than OR equal to")
+\<= --> liliwilulu ("less than OR equal to")
 
->= --> lololwilulu ("greater than OR equal to")
+\>= --> lololwilulu ("greater than OR equal to")
 
 ## Exponents, Logs, Roots, and Scientific Notation
 
