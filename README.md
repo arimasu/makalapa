@@ -1,4 +1,4 @@
-# makalapa
+# makatapa
 
 ## Philosophy
 
@@ -47,66 +47,79 @@ _Math should be:_
 
 ## Addition, Subtraction, Multiplication, Division
 
-\+ --> na
+\+ --> "na"
 
-\- --> wa na ("the inverse or opposite of plus")
+\- --> "wa na" ("the inverse or opposite of plus")
 
-\* --> sa
+\* --> "sa"
 
-/ --> wasa ("the inverse of opposite of multiply")
+/ --> "wa sa" ("the inverse of opposite of multiply")
 
 
 ## Equalities and Inequalities
 
-= --> lulu
+= --> "lulu"
 
-\< --> lili
+\< --> "lili"
 
-\> --> lolo
+\> --> "lolo"
 
-\<= --> liliwilulu ("less than OR equal to")
+\<= --> "lili wi lulu" ("less than OR equal to")
 
-\>= --> lololwilulu ("greater than OR equal to")
+\>= --> "lolo wi lulu" ("greater than OR equal to")
 
 ## Exponents, Logs, Roots, and Scientific Notation
 
 Inspired by the triangle of power.
 
-2^3 = ta ni pa
+2^3 = "ta ni pa"
 
-log_2 (8) = ta nu mu
+log_2 (8) = "ta nu mu"
 
-3root (8) = pa no mu
+3root (8) = "pa no mu"
 
-Instead of learning numbers like "hundred" "million" "billion"
+To say numbers with multiple digits, just say the numbers in order.
 
-1000 = kamamama
+10 = "ka ma"
 
-1000 = ka sa kama ni pa
+100 = "ka ma ma"
 
-1000 = 1 * 10 ^ 3 
+583 = "ki mu pa"
+
+1000 = "ka ma ma ma"
+
+This starts to sound silly and can be hard to understand after about 3 digits, so we can use scientific notation to save the day!
+
+1000 = "ka sa kama ni pa" (literally: 1 * 10 ^ 3)
+
+This is cool because:
+
+Instead of learning numbers like "hundred" "million" "billion"...
+
+We can just say the power of ten which we mean.
 
 Because we almost always mean "kama" is our root when we say kasakamani__, regardless of the base that we are in, we can just drop it in casual speech:
 
-1000 = ka sa ni pa
+1000 = "ka sa __ ni pa"
 
 So, in contracted form:
 
 (in base 10)
 
-* hundred (x10^2): sanita  
-* thousand (x10^3): sanipa 
-* ten thousand: sanimi (x10^4)
-* hundred thousand: saniki (x10^5)
-* million: saniti (x10^6)
-* billion: saniku (x10^9)
-* trillion: sanikata (x10^12) 
-* nonillion (x10^30): sanipama
-* googol (10^100): sanikamama
-* googolplex (10^(10^100)): sa kama ni kama ni kamama (in contracted form: saninikamama)
+* hundred (x10^2): "sanita"  
+* thousand (x10^3): "sanipa" 
+* ten thousand (x10^4): "sanimi" 
+* hundred thousand (x10^5): "saniki" 
+* million (x10^6): "saniti" 
+* billion (x10^9): "saniku"
+* trillion (x10^12): "sanikata"
+* nonillion (x10^30): "sanipama"
+* googol (10^100): "sanikamama"
+* googolplex (10^(10^100)): "sa kama ni kama ni kamama" (in contracted form: "saninikamama")
 
 * tenth (x10^-1) wasakamanika or wasamanika (or you could make the power negative: saniwaka)
 * thousandth (x10^-3) wasanipa or saniwapa
+* part per million (x10^-6) "wasaniti 'part'"
 
 * byte (x2^8) satanimu
 * kilobyte (x2^8 x10^3) satanikaka sakamanipa or satanikaka sa "byte" 
