@@ -41,8 +41,8 @@ _Math should be:_
 |o|u|i|a||
 |-|-|-|-|-|
 |>|=|<|.|l|
-|?|and|or|!|w/j|
-|so|"_"|(_)|*|s|
+|??|and|or|!|w/j|
+|??|"_"|??|\*|s|
 |root|log|power|+|n|
 
 ## Addition, Subtraction, Multiplication, Division
