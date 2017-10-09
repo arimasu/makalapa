@@ -110,6 +110,13 @@ So, in contracted form:
 * thousandth (x10^-3) wasanipa or saniwapa
 
 * byte (x2^8) satanimu
-* kilobyte (x2^8 x10^3) satanikaka sakamanipa or satanikaka sa "byte" or 
+* kilobyte (x2^8 x10^3) satanikaka sakamanipa or satanikaka sa "byte" 
+
+## Parantheses
+
+_not sure about these._
+
+( --> wila
+) --> wina
 
 
