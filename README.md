@@ -68,6 +68,12 @@ _Math should be:_
 
 \>= --> "lolo wi lulu" ("greater than OR equal to")
 
+## Radix Point 
+
+. --> "la"
+
+1.5 --> "ka la ki"
+
 ## Exponents, Logs, Roots, and Scientific Notation
 
 Inspired by the triangle of power.
@@ -84,7 +90,7 @@ To say numbers with multiple digits, just say the numbers in order.
 
 100 = "ka ma ma"
 
-583 = "ki mu pa"
+689 = "ti mu ku"
 
 1000 = "ka ma ma ma"
 
@@ -124,11 +130,13 @@ So, in contracted form:
 * byte (x2^8) satanimu
 * kilobyte (x2^8 x10^3) satanikaka sakamanipa or satanikaka sa "byte" 
 
-## Parantheses
+## Parentheses
 
 _not sure about these._
 
 ( --> wila
 ) --> wina
+
+(2 + 3) * 4 --> "wila ta na pa wina sa mi"
 
 
