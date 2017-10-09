@@ -60,6 +60,8 @@ _Math should be:_
 
 = --> "lulu"
 
+!= --> "walulu" ("not equal to")
+
 \< --> "lili"
 
 \> --> "lolo"
