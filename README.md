@@ -112,6 +112,8 @@ So, in contracted form:
 
 (in base 10)
 
+**Big Numbers:**
+
 * hundred (x10^2): "sanita"  
 * thousand (x10^3): "sanipa" 
 * ten thousand (x10^4): "sanimi" 
@@ -123,12 +125,23 @@ So, in contracted form:
 * googol (10^100): "sanikamama"
 * googolplex (10^(10^100)): "sa kama ni kama ni kamama" (in contracted form: "saninikamama")
 
+**Fractions:**
+
 * tenth (x10^-1) wasakamanika or wasamanika (or you could make the power negative: saniwaka)
 * thousandth (x10^-3) wasanipa or saniwapa
 * part per million (x10^-6) "wasaniti 'part'"
 
+**Other Units**
+
 * byte (x2^8) satanimu
 * kilobyte (x2^8 x10^3) satanikaka sakamanipa or satanikaka sa "byte" 
+
+
+67,491 = "tipi sanipa na mikuka" (literally: "6 7 * 10 ^ 3 + 4 9 1)
+
+5,349,182 = "ki saniti na pamiku sanipa na kamuta" (literally: "5 * 10 ^ 6 + 3 4 9 * 10 ^ 3 + 1 8 2")
+
+Compare this to "five million three hundred and forty nine thousand one hundred and eighty two"...
 
 ## Parentheses
 
@@ -138,5 +151,7 @@ _not sure about these._
 ) --> wina
 
 (2 + 3) * 4 --> "wila ta na pa wina sa mi"
+
+
 
 
