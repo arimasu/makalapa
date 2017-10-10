@@ -149,7 +149,8 @@ Compare this to "five million three hundred and forty nine thousand one hundred 
 
 _not sure about these._
 
-( --> wila
+( --> wila  
+
 ) --> wina
 
 (2 + 3) * 4 --> "wila ta na pa wina sa mi"
