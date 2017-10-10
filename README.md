@@ -129,15 +129,13 @@ So, in contracted form:
 
 **Fractions:**
 
-* tenth (x10^-1) wasakamanika or wasamanika (or you could make the power negative: saniwaka)
-* thousandth (x10^-3) wasanipa or saniwapa
-* part per million (x10^-6) "wasaniti 'part'"
+* tenth (x10^-1): "wasakamanika" or "wasamanika" (or you could make the power negative: saniwaka)
+* thousandth (x10^-3): "wasanipa" or "saniwapa"
+* part per million (x10^-6): "wasaniti 'part'"
 
 **Other Units**
 
-* byte (x2^8) satanimu
-* kilobyte (x2^8 x10^3) satanikaka sakamanipa or satanikaka sa "byte" 
-
+* byte (x2^8): "satanimu"
 
 67,491 = "tipi sanipa na mikuka" (literally: "6 7 * 10 ^ 3 + 4 9 1)
 
