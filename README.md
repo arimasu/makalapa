@@ -42,7 +42,7 @@ _Math should be:_
 |-|-|-|-|-|
 |>|=|<|.|l|
 |??|and|or|!|w/j|
-|therefore, (2x) = iff|"_"|where, subject to|\*|s|
+|therefore / iff|"_"| where, subject to|\*|s|
 |root|log|power|+|n|
 
 ## Addition, Subtraction, Multiplication, Division
