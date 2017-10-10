@@ -17,10 +17,10 @@ _Math should be:_
 
 |o|u|i|a||
 |-|-|-|-|-|
-|mo|mu|mi|ma|m|
-|ko|ku|ki|ka|k|
-|to|tu|ti|ta|t|
-|po|pu|pi|pa|p|
+|mo|mu|mi|ma|**m**|
+|ko|ku|ki|ka|**k**|
+|to|tu|ti|ta|**t**|
+|po|pu|pi|pa|**p**|
 
 |o|u|i|a||
 |-|-|-|-|-|
@@ -40,10 +40,10 @@ _Math should be:_
 
 |o|u|i|a||
 |-|-|-|-|-|
-|>|=|<|.|l|
-|??|and|or|!|w/j|
-|therefore / iff|"_"| where, subject to|\*|s|
-|root|log|power|+|n|
+|>|=|<|.|**l**|
+|??|and|or|!|**w/j**|
+|therefore / iff|"_"| where, subject to|\*|**s**|
+|root|log|power|+|**n**|
 
 ## Addition, Subtraction, Multiplication, Division
 
