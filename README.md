@@ -154,6 +154,18 @@ _not sure about these._
 
 (2 + 3) * 4 --> "wila ta na pa wina sa mi"
 
+## Logic 
 
+and --> "yu"
+
+or --> "wi"
+
+not --> "wa"
+
+subject to / where --> "si"
+
+therefore --> "so"
+
+if and only if (equivalent) --> "soso"
 
 
