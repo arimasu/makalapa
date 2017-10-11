@@ -42,7 +42,7 @@ _Math should be:_
 |-|-|-|-|-|
 |>|=|<|.|**l**|
 |??|and|or|!|**w/j**|
-|therefore / iff|"_"| where, subject to|\*|**s**|
+|therefore / iff|"_" / ()| where, subject to|\*|**s**|
 |root|log|power|+|**n**|
 
 ## Addition, Subtraction, Multiplication, Division
@@ -156,11 +156,13 @@ Compare this to "five million three hundred and forty nine thousand one hundred 
 
 _not sure about these._
 
-( --> "wila"
+( --> "sula" (add "+la" for each additional nested parantheses)
 
-) --> "wina"
+) --> "suna" (add "+na" for each additional nested parantheses)
 
-(2 + 3) * 4 --> "wila ta na pa wina sa mi"
+(2 + 3) * 4 --> "sula ta na pa suna sa mi"
+
+"_" --> "susu __ susu" (used to quote non-Makatapa symbols or words when they might be ambiguous with makatapa words.)
 
 ## Logic 
 
