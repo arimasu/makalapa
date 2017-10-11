@@ -80,13 +80,17 @@ _Math should be:_
 
 ## Exponents, Logs, Roots, and Scientific Notation
 
-Inspired by the triangle of power.
+Inspired by the triangle of power. 
+
+For the relationship "2 to the power of 3 = 8" :
 
 2^3 = "ta ni pa"
 
-log_2 (8) = "ta nu mu"
+3root (8) = "pa no mu" 
 
-3root (8) = "pa no mu"
+log_2 (8) = "mu nu ta" (note the direction here! - "8 logbase 2") (ni, nu, no and correspond to each line of the triangle, travelling clockwise around it, so "nu" goes from the result to the base of the log)
+
+---
 
 To say numbers with multiple digits, just say the numbers in order.
 
