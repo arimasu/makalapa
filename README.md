@@ -78,7 +78,7 @@ _Math should be:_
 
 1.5 --> "ka la ki"
 
-## Exponents, Logs, Roots, and Scientific Notation
+## Exponents, Logs, Roots
 
 Inspired by the triangle of power. 
 
@@ -90,7 +90,7 @@ For the relationship "2 to the power of 3 = 8" :
 
 log_2 (8) = "mu nu ta" (note the direction here! - "8 logbase 2") (ni, nu, no and correspond to each line of the triangle, travelling clockwise around it, so "nu" goes from the result to the base of the log)
 
----
+## Large Numbers / Scientific Notation
 
 To say numbers with multiple digits, just say the numbers in order.
 
@@ -176,7 +176,7 @@ therefore --> "so"
 
 if and only if (equivalent) --> "soso"
 
-## Base 
+## Bases
 
 Makatapa provides phonemes and symbols for numbers 0-15 (base 16).
 
