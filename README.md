@@ -25,7 +25,7 @@ _Math should be:_
 |o|u|i|a||
 |-|-|-|-|-|
 |lo|lu|li|la|**l**|
-|jo|ju|wi|wa|**w(a,i)/j(o,u)**|
+|jo|ju|wi|wa|**w/j**|
 |so|su|si|sa|**s**|
 |no|nu|ni|na|**n**|
 
@@ -41,7 +41,7 @@ _Math should be:_
 |o|u|i|a||
 |-|-|-|-|-|
 |>|=|<|.|**l**|
-|??|and|or|!|**w(a,i)/j(o,u)**|
+|??|and|or|!|**w/j**|
 |therefore / iff|"_"| where, subject to|\*|**s**|
 |root|log|power|+|**n**|
 
