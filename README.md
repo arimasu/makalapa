@@ -60,15 +60,17 @@ _Math should be:_
 
 = --> "lulu"
 
-!= --> "walulu" ("not equal to")
+!= --> "wa lulu" ("not equal to")
 
 \< --> "lili"
 
 \> --> "lolo"
 
-\<= --> "lili wi lulu" ("less than OR equal to")
+\<= --> "lili wi lulu" ("less than OR equal to") ("wi" means OR)
 
 \>= --> "lolo wi lulu" ("greater than OR equal to")
+
+\~= --> "wiwi lulu" ("approximately equal to") ("wiwi" means approximately)
 
 ## Radix Point 
 
@@ -166,5 +168,23 @@ subject to / where --> "si"
 therefore --> "so"
 
 if and only if (equivalent) --> "soso"
+
+## Base 
+
+Makatapa provides phonemes and symbols for numbers 0-15 (base 16).
+
+You can obviously just use the sounds and symbols for numbers 0-9 if you would like to stay in base 10.
+
+Typically the base will be understood from context, but:
+
+To specify base:
+
+Base 10 --> "makatapa tu" (literally: "numbers 10")
+
+Base 2 --> "makatapa ta" (literally: "numbers 2")
+
+Base 16 --> "makatapa makatapa" ("all of the numbers")
+
+You could also use base 12 for time or base 4 for other fun stuff.
 
 
