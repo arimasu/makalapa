@@ -108,7 +108,10 @@ Instead of learning numbers like "hundred" "million" "billion"...
 
 We can just say the power of ten which we mean.
 
-Because we almost always mean "kama" is our root when we say kasakamani__, regardless of the base that we are in, we can just drop it in casual speech:
+so thousand (x10^3) is "sakamanipa".  
+million (x10^6) is "sakamaniti".
+
+Because we almost always mean "kama" (10) is our root when we say kasakamani__, regardless of the base that we are in, we can just drop it in casual speech:
 
 1000 = "ka sa __ ni pa"
 
