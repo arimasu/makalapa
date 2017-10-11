@@ -24,24 +24,24 @@ _Math should be:_
 
 |o|u|i|a||
 |-|-|-|-|-|
-|lo|lu|li|la|l|
-|jo|ju|wi|wa|w/j|
-|so|su|si|sa|s|
-|no|nu|ni|na|n|
+|lo|lu|li|la|**l**|
+|jo|ju|wi|wa|**w(a,i)/j(o,u)**|
+|so|su|si|sa|**s**|
+|no|nu|ni|na|**n**|
 
 ---
 
 |o|u|i|a||
 |-|-|-|-|-|
-|12|8|4|0|m|
-|13|9|5|1|k|
-|14|10|6|2|t|
-|15|11|7|3|p|
+|12|8|4|0|**m**|
+|13|9|5|1|**k**|
+|14|10|6|2|**t**|
+|15|11|7|3|**p**|
 
 |o|u|i|a||
 |-|-|-|-|-|
 |>|=|<|.|**l**|
-|??|and|or|!|**w/j**|
+|??|and|or|!|**w(a,i)/j(o,u)**|
 |therefore / iff|"_"| where, subject to|\*|**s**|
 |root|log|power|+|**n**|
 
