@@ -48,6 +48,11 @@ Exploring!
 Some kids learn best when they can build things using things. Or when they can explore things. Active learning. Not passive memorisation!
 
 
+https://www.youcubed.org/resource/depth-not-speed/
+
+### Visualisation
+
+https://bhi61nm2cr3mkdgk1dtaov18-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/Visual-Math-Paper-vF.pdf
 
 
 
