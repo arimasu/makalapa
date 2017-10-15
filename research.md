@@ -13,6 +13,9 @@ https://www.theguardian.com/do-the-maths/learning-and-teaching-maths
 
 https://www.youcubed.org/tasks/
 
+https://www.nature.com/articles/ncomms9453
+
+http://dyslexia.yale.edu/Edu_memorychallenges.html
 
 ### Memorisation
 
@@ -44,7 +47,7 @@ Exploring!
 
 Some kids learn best when they can build things using things. Or when they can explore things. Active learning. Not passive memorisation!
 
-http://dyslexia.yale.edu/Edu_memorychallenges.html
+
 
 
 
