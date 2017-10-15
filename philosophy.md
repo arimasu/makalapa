@@ -25,5 +25,15 @@ So we want to give rewards early and often for deep insights, but also not limit
 * teach about logarithms
 
 
+## Learning Math
+
+https://www.wsj.com/articles/the-best-language-for-math-1410304008
+
+http://www.languagesoftheworld.info/bad-linguistics/best-language-math-thing.html
+
+https://ww2.kqed.org/mindshift/2015/11/30/not-a-math-person-how-to-remove-obstacles-to-learning-math/
+
+https://www.theguardian.com/do-the-maths/learning-and-teaching-maths
+
 
 
