@@ -87,6 +87,8 @@ time, music, money...
 
 ### Binary Musings
 
+https://www.swarthmore.edu/NatSci/echeeve1/Ref/BinaryMath/NumSys.html#hex
+
 http://www.exploringbinary.com/binary-images-from-silicon-valley/#more-572
 
 using 2 as a logarithmic base is reallly nice...
