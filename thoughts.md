@@ -5,7 +5,7 @@ _Ideas, thoughts, musings on Makatapa..._
 
 ## Todo
 
-1. Try out subtraction and long division in the full hex form...
+1. Try out subtraction and long division in the full hex form... see: http://www.exploringbinary.com/binary-division/
 2. try out exponentiation, roots, and logs...
 3. 
 
