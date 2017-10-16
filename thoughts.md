@@ -94,6 +94,12 @@ http://www.exploringbinary.com/binary-images-from-silicon-valley/#more-572
 using 2 as a logarithmic base is reallly nice...
 
 
+binary is so amazing. the reason why we don't use it though is not because it's not awesome, but because:
+
+* it's not very compact to write
+* counting sequentially makes sense in base 10. when you run out of fingers it makes you ask the question - what now? o maybe I'll just compress 10 into 1. with binary you run out of fingers after 1 finger. this might not be intuitive for kids learning numbers for the first time... but .... i dunno maybe it would be actually...
+
+
 
 
 
