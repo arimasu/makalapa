@@ -76,6 +76,17 @@ So we want to give rewards early and often for deep insights, but also not limit
 * teach about logarithms
 
 
+### Base 16 Musings
+
+https://en.wikipedia.org/wiki/Tonal_system
+
+This guy proposed base 16 for everything. seems legit.
+
+time, music, money...
+
+using 2 as a logarithmic base is reallly nice...
+
+
 
 
 
