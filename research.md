@@ -1,5 +1,6 @@
-# Philosophy
+# Research
 
+_Research notes for Makatapa._
 
 ## Math Learning
 
@@ -18,8 +19,6 @@ https://www.nature.com/articles/ncomms9453
 http://dyslexia.yale.edu/Edu_memorychallenges.html
 
 ### Memorisation
-
-
 
 From: https://www.youcubed.org/evidence/fluency-without-fear/
 
